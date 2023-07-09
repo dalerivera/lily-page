@@ -1,0 +1,9 @@
+li {
+  font-size: large;
+  color: rgb(168, 142, 239);
+}
+
+img {
+  max-width: 700;
+  max-height: 400;
+}

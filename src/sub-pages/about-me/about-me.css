@@ -1,0 +1,22 @@
+.text-wrap {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  margin: auto;
+}
+
+p {
+  margin-top: 4em;
+  margin-bottom: 4em;
+  margin-left: 10em;
+  margin-right: 10em;
+  text-align: center;
+}
+
+.gallery-3 img {
+  width: 30%;
+}
+
+.gallery-4 img {
+  width: 22%;
+}

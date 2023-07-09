@@ -1,0 +1,1 @@
+run `yarn parcel src/index.html`
